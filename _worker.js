@@ -948,4 +948,5 @@ async function getLink(重新汇总所有链接) {
 	}
 
 	return 节点LINK;
+	let EndPS = '[1]';//节点名备注内容
 }
